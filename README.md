@@ -56,7 +56,7 @@ Overall, my experience as a full stack and DevOps engineer has given me a deep u
           
 <br/>
 <h3 align="left">Contribution Stats</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=akshay-pramod&theme=ocean-gradient&date_format=M%20j%5B%2C%20Y%5D&type=png&card_width=500" alt="akshay-pramod" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=akshay-pramod&theme=ocean-gradient&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="akshay-pramod" /></p>
 
 
 <br/>
