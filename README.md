@@ -4,7 +4,7 @@
 
 In terms of full stack engineering, I have worked with a variety of frontend, backend, and cloud-based technologies such as Angular, Node.js, NestJs, AWS and Google Cloud. I have also worked extensively with NoSQL databases, to design and develop data models that meet the requirements of complex systems.
 
-On the DevOps side, I have hands-on experience with infrastructure automation, configuration management, containerization, and orchestration tools such as Terraform, Docker, and Kubernetes. I have implemented CI/CD pipelines to automate the software delivery process and ensure that applications are deployed quickly and reliably.
+On the DevOps side, I have hands-on experience with configuration management, containerization, and using orchestration tools such as Terraform, Docker, and Kubernetes. I have implemented CI/CD pipelines to automate the software delivery process and ensure that applications are deployed quickly and reliably.
 
 Experience in tracking the progress of the application development using Jira dashboard. By creating and managing tickets, I can monitor the status of the tasks, assign priorities, and track work done by team members.
 
@@ -56,4 +56,4 @@ Overall, my experience as a full stack and DevOps engineer has given me a deep u
           
 <br/>
 <h3 align="left">Contribution Stats</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-pramod&" alt="akshay-pramod" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=akshay-pramod&theme=ocean-gradient&date_format=M%20j%5B%2C%20Y%5D&type=png&card_width=500" alt="akshay-pramod" /></p>
