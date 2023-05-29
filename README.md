@@ -51,7 +51,7 @@ Overall, my experience as a full stack and DevOps engineer has given me a deep u
 <img src="https://www.drone.io/images/logo2-5d91833e3b.svg" width="50" height="50" />
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" />
 <img src="https://www.svgrepo.com/show/353904/insomnia.svg" width="50" height="50" />
-<img src="./nx_white.svg" width="50" height="50" />
+<img src="./nx_white.svg" width="70" height="70" />
 </p>
           
           
